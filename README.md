@@ -49,27 +49,20 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 
 ## Tech Stack
 
-- **Flutter** (mobile)
+- **Flutter**
 - **Dart**
 - **State Management**: Riverpod / Bloc
 - **AI Integration**: OpenAI, Gemini, DeepSeek API
 - **REST API**
 - Clean architecture
 
-## Getting Started
-
-```bash
-git clone https://github.com/Bobidze/system-ai-gamified-task-manager.git
-flutter pub get
-flutter run
-```
-
 ## Author
 
 **Nikita Tarasiuk** (Bobidze)
 
-- GitHub: [@Bobidze](https://github.com/Bobidze)
-- Telegram: @meowuchkin
+- GitHub: [github.com/Bobidze](https://github.com/Bobidze)
+- Telegram: [@meowuchkin](https://t.me/meowuchkin)
+- Email: tarasyuk.nikita020206@gmail.comchkin
 
 ---
 
