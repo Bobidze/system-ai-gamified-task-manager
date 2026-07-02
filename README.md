@@ -17,25 +17,34 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 ## Demo
 
 ### Onboarding & Login
-![Onboarding](assets/gifs/onboarding.gif)
+![Onboarding](gifs/onboarding.gif)
 
 ### AI Task Creation
-![AI Task Creation](assets/gifs/ai_task_creation.gif)
+![AI Task Creation](gifs/ai_task_creation.gif)
 
 ### AI Task Analysis
-![AI Task Analysis](assets/gifs/ai_task_analysis.gif)
+![AI Task Analysis](gifs/ai_task_analysis.gif)
+
+### AI Task Completion
+![AI Task Analysis](gifs/ai_task_completion.gif)
 
 ### Diary
-![Diary](assets/gifs/diary.gif)
+![Diary](gifs/diary.gif)
 
 ### Settings
-![Settings](assets/gifs/settings.gif)
+![Settings](gifs/settings.gif)
+
+### Profile
+![Settings](gifs/profile.gif)
 
 ### Achievements & Titles
-![Achievements and Titles](assets/gifs/achievements_titles.gif)
+![Achievements and Titles](gifs/achievements_titles.gif)
 
 ### Attribute Tree
-![Attribute Tree](assets/gifs/attribute_tree.gif)
+![Attribute Tree](gifs/attribute_tree.gif)
+
+### Log Out
+![Log Out](gifs/log_out.gif)
 
 ## Key Features
 
@@ -55,15 +64,6 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 - **AI Integration**: OpenAI, Gemini, DeepSeek API
 - **REST API**
 - Clean architecture and responsive design
-
-## Getting Started
-
-```bash
-git clone https://github.com/Bobidze/system-ai-gamified-task-manager.git
-cd system-ai-gamified-task-manager
-flutter pub get
-flutter run
-```
 
 ## Author
 
