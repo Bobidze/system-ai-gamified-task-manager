@@ -25,26 +25,17 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 ### AI Task Analysis
 ![AI Task Analysis](gifs/ai_task_analysis.gif)
 
-### AI Task Completion
-![AI Task Analysis](gifs/ai_task_completion.gif)
-
 ### Diary
 ![Diary](gifs/diary.gif)
 
 ### Settings
 ![Settings](gifs/settings.gif)
 
-### Profile
-![Settings](gifs/profile.gif)
-
 ### Achievements & Titles
 ![Achievements and Titles](gifs/achievements_titles.gif)
 
 ### Attribute Tree
 ![Attribute Tree](gifs/attribute_tree.gif)
-
-### Log Out
-![Log Out](gifs/log_out.gif)
 
 ## Key Features
 
@@ -54,7 +45,7 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 - **Attribute Tree** — Upgrade your character attributes
 - **Diary & Progress Tracking**
 - **Achievements System** with meaningful rewards
-- **Modern Flutter UI** with smooth animations
+- **Modern Flutter UI** with smooth animations and responsive design
 
 ## Tech Stack
 
@@ -63,7 +54,15 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 - **State Management**: Riverpod / Bloc
 - **AI Integration**: OpenAI, Gemini, DeepSeek API
 - **REST API**
-- Clean architecture and responsive design
+- Clean architecture
+
+## Getting Started
+
+```bash
+git clone https://github.com/Bobidze/system-ai-gamified-task-manager.git
+flutter pub get
+flutter run
+```
 
 ## Author
 
@@ -74,4 +73,4 @@ Players level up, build attribute trees, unlock titles and achievements, while A
 
 ---
 
-> This is a personal portfolio project built to explore gamification, AI integration and complex state management in Flutter.
+> Personal portfolio project built to explore gamification, AI integration, and complex state management in Flutter.
