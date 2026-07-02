@@ -75,7 +75,7 @@ Complete tasks to earn XP, level up, grow an attribute tree, and unlock titles a
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bobidze-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bobidze)
 [![Telegram](https://img.shields.io/badge/Telegram-@meowuchkin-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/meowuchkin)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarasyuk.nikita020206@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tarasyuk.nikita020206@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarasyuk.nikita020206@gmail.com)
 
 ---
 
